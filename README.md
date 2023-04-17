@@ -2,6 +2,17 @@
 
 ## Деятельность
 
+| Задачи | Технологии | Инструменты | 
+|----------|----------|----------|
+| Сбор требований | Интервью, Мозговой штурм,    | |
+| Документирование | USM, UML, BPMN, User Stories, Use cases, SRS | Confluence, Miro, Draw.io, Camunda Modeler, Docsify |
+| Проектирование/документирование API| OpenAPI, REST, SOAP, Message queues | Swagger, Insomnia, Postman, SoapUI, RabbitMQ, Redis|
+| Базы данных |PostgreSQL, MS SQL, MongoDB| Dbeaver |
+| Проектирование UI/UX | CJM, Прототипирование | Figma, Balsamiq mockups |
+| Управление процессом разработки | Agile, Scrum  | Jira, Youtrack, Trello, Gitlab |
+
+
+
 ## Обо мне
 
 **Опыт работы в IT**
@@ -26,9 +37,9 @@ Technical support (2006 - 2009) -> Sales & Project Managment (2010 - 2013) -> (2
 
 ## Проекты и клиенты
 
-### Systems analysis & Project Managment
 
-| Column 1 | Column 2 | Column 3 |
+
+| Компания | Column 2 | Column 3 |
 |----------|----------|----------|
 | Row 1    | Cell 2   | Cell 3   |
 | Row 2    | Cell 5   | Cell 6   |
@@ -38,11 +49,8 @@ Technical support (2006 - 2009) -> Sales & Project Managment (2010 - 2013) -> (2
 [NSYS group](https://nsysgroup.com/)
 Экосистема программных и аппаратных решений для индустрии б/у мобильных устройств
 
-[cloud.neuroio.com](https://cloud.neuroio.com/)
 
-Облачная система распознавания лиц
 
-### Consulting
 [psypsy.online](https://psypsy.online/)
 
 Сервис подбора психолога и консультации с психологом online
