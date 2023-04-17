@@ -4,11 +4,12 @@
 
 ## Обо мне
 
-Опыт работы в IT
+**Опыт работы в IT**
+
 Technical support (2006 - 2009) -> Sales & Project Managment (2010 - 2013) -> (2013 - настоящее время) Systems analysis & Project Managment
 
 - Терпение и стрессоустойчивость
-- Ориентированность на клиентов и на бизнес-ценности
+- Ориентированность на клиентов и бизнес-ценности
 - Понимание важности процессов разработки и доставки программных продуктов
 - Управление требованиями - неотъемлимая часть процесса разработки программных продуктов
 
@@ -23,7 +24,33 @@ Technical support (2006 - 2009) -> Sales & Project Managment (2010 - 2013) -> (2
 
 - 2022: Netology - System analyst
 
-## Проекты
+## Проекты и клиенты
 
-## Навыки
+### Systems analysis & Project Managment
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Cell 2   | Cell 3   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
+
+
+[NSYS group](https://nsysgroup.com/)
+Экосистема программных и аппаратных решений для индустрии б/у мобильных устройств
+
+[cloud.neuroio.com](https://cloud.neuroio.com/)
+
+Облачная система распознавания лиц
+
+### Consulting
+[psypsy.online](https://psypsy.online/)
+
+Сервис подбора психолога и консультации с психологом online
+
+[teddyfood.com](https://teddyfood.com/)
+
+Сервис, где пользователи помогают бездомным животным в приютах
+
+
+## Контакты
 
