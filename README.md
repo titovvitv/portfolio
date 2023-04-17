@@ -4,10 +4,10 @@
 
 | Задачи | Технологии | Инструменты | 
 |----------|----------|----------|
-| Сбор требований | Интервью, Мозговой штурм,    | |
+| Сбор и согласование требований | Интервью, Анализ документации, Мозговой штурм, Моделирование "as is" - "to be", Конкурентный анализ, Прототипирование интерфейсов, Работа "в поле" | BPMN, UML, Balsamiq mockups |
 | Документирование | USM, UML, BPMN, User Stories, Use cases, SRS | Confluence, Miro, Draw.io, Camunda Modeler, Docsify |
-| Проектирование/документирование API| OpenAPI, REST, SOAP, Message queues | Swagger, Insomnia, Postman, SoapUI, RabbitMQ, Redis|
-| Базы данных |PostgreSQL, MS SQL, MongoDB| Dbeaver |
+| Проектирование/документирование API | OpenAPI, REST, Message queues, SOAP | Swagger, Insomnia, Postman, RabbitMQ, Redis, SoapUI |
+| Базы данных |PostgreSQL, MS SQL, MongoDB | Dbeaver |
 | Проектирование UI/UX | CJM, Прототипирование | Figma, Balsamiq mockups |
 | Управление процессом разработки | Agile, Scrum  | Jira, Youtrack, Trello, Gitlab |
 
