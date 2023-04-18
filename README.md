@@ -4,12 +4,12 @@
 
 | Задачи | Технологии | Инструменты | 
 |----------|----------|----------|
-| Сбор и согласование требований | Интервью, Анализ документации, Мозговой штурм, Моделирование "as is" - "to be", Конкурентный анализ, Прототипирование интерфейсов, Работа "в поле" | BPMN, UML, Balsamiq mockups |
-| Документирование | USM, UML, BPMN, User Stories, Use cases, SRS | Confluence, Miro, Draw.io, Camunda Modeler, Docsify |
+| Сбор и согласование требований | Интервью, Анализ документации, Мозговой штурм, Моделирование "as is" - "to be", Конкурентный анализ, Прототипирование интерфейсов, Работа "в поле" | BPMN, UML, Figma, Balsamiq mockups |
+| Формализация требований | USM, EARS, SRS, User Stories, JTBD, Use cases, UML, BPMN | Confluence, Miro, Draw.io, Camunda Modeler, Docsify |
 | Проектирование/документирование API | OpenAPI, REST, GraphQL, MQ, SOAP | Swagger, Insomnia, Postman, RabbitMQ, Redis, SoapUI |
 | Базы данных |PostgreSQL, MS SQL, MongoDB | Dbeaver |
 | Проектирование UI/UX | CJM, Прототипирование | Figma, Balsamiq mockups |
-| Управление процессом разработки | Agile, Scrum  | Jira, Youtrack, Trello, Gitlab |
+| Управление процессом разработки | Agile, Scrum, Lean  | Jira, Youtrack, Trello, Gitlab |
 
 
 
