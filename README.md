@@ -2,10 +2,11 @@
 
 ## Деятельность
 
-| Выполняю задачи | Использую технологии | Использую инструменты | 
+| Выполняю задачи | Использую технологии и подходы | Использую инструменты | 
 |----------|----------|----------|
 | Сбор и согласование требований | Интервью, Анализ документации, Мозговой штурм, Моделирование "as is" - "to be", Конкурентный анализ, Прототипирование интерфейсов, Работа "в поле" | BPMN, UML, Figma, Balsamiq mockups |
-| Формализация требований | USM, EARS, SRS, User Stories, JTBD, Use cases, UML, BPMN | Confluence, Miro, Draw.io, StarUML, Camunda Modeler, Docsify |
+| Формализация требований | USM, EARS, SRS, User Stories, JTBD, Use cases, UML, BPMN |  Miro, Draw.io, StarUML, Camunda Modeler |
+| Создание баз знаний и документации | Knowledge Bases, Technical documentation, User documentation | Confluence, Docsify, Notion |
 | Проектирование/документирование API | OpenAPI, REST, GraphQL, MQ, SOAP | Swagger, Insomnia, Postman, SoapUI |
 | Базы данных |PostgreSQL, MS SQL, MongoDB | Dbeaver |
 | Проектирование UI/UX | CJM, Прототипирование | Figma, Balsamiq mockups |
