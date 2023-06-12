@@ -36,6 +36,8 @@ ____
 ## Основная деятельность
 
 ### NSYS group
+>[wgtre](https://url.rw/?https%3A%2F%2Fnsysgroup.com)
+
 <a href="https://url.rw/?https%3A%2F%2Fnsysgroup.com" target="_blank">nsysgroup.com</a>
 
 
