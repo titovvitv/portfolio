@@ -43,7 +43,8 @@ ____
 # Компании и проекты
 
 ## Ocean Digital
-<a href="https://url.rw/?https%3A%2F%2Foceandigital.top%2F" target="_blank">oceandigital.top</a> 
+- 2022 - настоящее время
+- <a href="https://url.rw/?https%3A%2F%2Foceandigital.top%2F" target="_blank">oceandigital.top</a> 
 
 Системный аналитик на двух проектах:
 - высоконагруженный проект в сфере fintech
