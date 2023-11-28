@@ -1,6 +1,5 @@
 # Титов Виталий
 ### System analyst
-#### Belgrade, Serbia
 _____
 
 - [Обо мне](#Обо-мне)
